@@ -1,0 +1,22 @@
+"newRegistration": {
+    "letter": "กกท",
+    "province": "กรุงเทพมหานคร",
+    "numberId": 123,
+    "groupSpecialRegistration": "Black List",
+    "ownUser": "นาย สมชาย ใจดี",
+    "agency": '"หน่วยงาน",
+    "status": true, // true | false
+    "addDate": "01/01/2021",
+    "fixDate": "01/01/2021",
+    "image": [
+        {
+            "url": "https://img2.pic.in.th/pic/321429113_693413412244262_8996377946945618428_n.jpg",
+            "alt": "image"
+        },
+        {
+            "url": "https://img2.pic.in.th/pic/321429113_693413412244262_8996377946945618428_n.jpg",
+            "alt": "image"
+        }
+    ],
+    "action": "แก้ไข",
+}

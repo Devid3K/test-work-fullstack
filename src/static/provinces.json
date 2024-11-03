@@ -1,0 +1,695 @@
+[
+    {
+        "id": 1,
+        "label": "กรุงเทพมหานคร",
+        "value": "กรุงเทพมหานคร",
+        "geography_id": 2,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 2,
+        "label": "สมุทรปราการ",
+        "value": "สมุทรปราการ",
+        "geography_id": 2,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 3,
+        "label": "นนทบุรี",
+        "value": "นนทบุรี",
+        "geography_id": 2,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 4,
+        "label": "ปทุมธานี",
+        "value": "ปทุมธานี",
+        "geography_id": 2,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 5,
+        "label": "พระนครศรีอยุธยา",
+        "value": "พระนครศรีอยุธยา",
+        "geography_id": 2,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 6,
+        "label": "อ่างทอง",
+        "value": "อ่างทอง",
+        "geography_id": 2,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 7,
+        "label": "ลพบุรี",
+        "value": "ลพบุรี",
+        "geography_id": 2,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 8,
+        "label": "สิงห์บุรี",
+        "value": "สิงห์บุรี",
+        "geography_id": 2,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 9,
+        "label": "ชัยนาท",
+        "value": "ชัยนาท",
+        "geography_id": 2,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 10,
+        "label": "สระบุรี",
+        "value": "สระบุรี",
+        "geography_id": 2,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 11,
+        "label": "ชลบุรี",
+        "value": "ชลบุรี",
+        "geography_id": 5,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 12,
+        "label": "ระยอง",
+        "value": "ระยอง",
+        "geography_id": 5,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 13,
+        "label": "จันทบุรี",
+        "value": "จันทบุรี",
+        "geography_id": 5,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 14,
+        "label": "ตราด",
+        "value": "ตราด",
+        "geography_id": 5,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 15,
+        "label": "ฉะเชิงเทรา",
+        "value": "ฉะเชิงเทรา",
+        "geography_id": 5,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 16,
+        "label": "ปราจีนบุรี",
+        "value": "ปราจีนบุรี",
+        "geography_id": 5,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 17,
+        "label": "นครนายก",
+        "value": "นครนายก",
+        "geography_id": 2,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 18,
+        "label": "สระแก้ว",
+        "value": "สระแก้ว",
+        "geography_id": 5,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 19,
+        "label": "นครราชสีมา",
+        "value": "นครราชสีมา",
+        "geography_id": 3,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 20,
+        "label": "บุรีรัมย์",
+        "value": "บุรีรัมย์",
+        "geography_id": 3,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 21,
+        "label": "สุรินทร์",
+        "value": "สุรินทร์",
+        "geography_id": 3,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 22,
+        "label": "ศรีสะเกษ",
+        "value": "ศรีสะเกษt",
+        "geography_id": 3,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 23,
+        "label": "อุบลราชธานี",
+        "value": "อุบลราชธานี",
+        "geography_id": 3,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 24,
+        "label": "ยโสธร",
+        "value": "ยโสธร",
+        "geography_id": 3,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 25,
+        "label": "ชัยภูมิ",
+        "value": "ชัยภูมิ",
+        "geography_id": 3,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 26,
+        "label": "อำนาจเจริญ",
+        "value": "อำนาจเจริญ",
+        "geography_id": 3,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 27,
+        "label": "หนองบัวลำภู",
+        "value": "หนองบัวลำภู",
+        "geography_id": 3,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 28,
+        "label": "ขอนแก่น",
+        "value": "ขอนแก่น",
+        "geography_id": 3,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 29,
+        "label": "อุดรธานี",
+        "value": "อุดรธานี",
+        "geography_id": 3,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 30,
+        "label": "เลย",
+        "value": "เลย",
+        "geography_id": 3,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 31,
+        "label": "หนองคาย",
+        "value": "หนองคาย",
+        "geography_id": 3,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 32,
+        "label": "มหาสารคาม",
+        "value": "มหาสารคาม",
+        "geography_id": 3,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 33,
+        "label": "ร้อยเอ็ด",
+        "value": "ร้อยเอ็ด",
+        "geography_id": 3,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 34,
+        "label": "กาฬสินธุ์",
+        "value": "กาฬสินธุ์",
+        "geography_id": 3,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 35,
+        "label": "สกลนคร",
+        "value": "สกลนคร",
+        "geography_id": 3,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 36,
+        "label": "นครพนม",
+        "value": "นครพนม",
+        "geography_id": 3,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 37,
+        "label": "มุกดาหาร",
+        "value": "มุกดาหาร",
+        "geography_id": 3,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 38,
+        "label": "เชียงใหม่",
+        "value": "เชียงใหม่",
+        "geography_id": 1,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 39,
+        "label": "ลำพูน",
+        "value": "ลำพูน",
+        "geography_id": 1,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 40,
+        "label": "ลำปาง",
+        "value": "ลำปาง",
+        "geography_id": 1,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 41,
+        "label": "อุตรดิตถ์",
+        "value": "อุตรดิตถ์",
+        "geography_id": 1,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 42,
+        "label": "แพร่",
+        "value": "แพร่",
+        "geography_id": 1,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 43,
+        "label": "น่าน",
+        "value": "น่าน",
+        "geography_id": 1,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 44,
+        "label": "พะเยา",
+        "value": "พะเยา",
+        "geography_id": 1,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 45,
+        "label": "เชียงราย",
+        "value": "เชียงราย",
+        "geography_id": 1,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 46,
+        "label": "แม่ฮ่องสอน",
+        "value": "แม่ฮ่องสอน",
+        "geography_id": 1,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 47,
+        "label": "นครสวรรค์",
+        "value": "นครสวรรค์",
+        "geography_id": 2,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 48,
+        "label": "อุทัยธานี",
+        "value": "อุทัยธานี",
+        "geography_id": 2,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 49,
+        "label": "กำแพงเพชร",
+        "value": "กำแพงเพชร",
+        "geography_id": 2,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 50,
+        "label": "ตาก",
+        "value": "ตาก",
+        "geography_id": 4,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 51,
+        "label": "สุโขทัย",
+        "value": "สุโขทัย",
+        "geography_id": 2,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 52,
+        "label": "พิษณุโลก",
+        "value": "พิษณุโลก",
+        "geography_id": 2,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 53,
+        "label": "พิจิตร",
+        "value": "พิจิตร",
+        "geography_id": 2,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 54,
+        "label": "เพชรบูรณ์",
+        "value": "เพชรบูรณ์",
+        "geography_id": 2,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 55,
+        "label": "ราชบุรี",
+        "value": "ราชบุรี",
+        "geography_id": 4,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 56,
+        "label": "กาญจนบุรี",
+        "value": "กาญจนบุรี",
+        "geography_id": 4,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 57,
+        "label": "สุพรรณบุรี",
+        "value": "สุพรรณบุรี",
+        "geography_id": 2,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 58,
+        "label": "นครปฐม",
+        "value": "นครปฐม",
+        "geography_id": 2,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 59,
+        "label": "สมุทรสาคร",
+        "value": "สมุทรสาคร",
+        "geography_id": 2,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 60,
+        "label": "สมุทรสงคราม",
+        "value": "สมุทรสงคราม",
+        "geography_id": 2,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 61,
+        "label": "เพชรบุรี",
+        "value": "เพชรบุรี",
+        "geography_id": 4,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 62,
+        "label": "ประจวบคีรีขันธ์",
+        "value": "ประจวบคีรีขันธ์",
+        "geography_id": 4,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 63,
+        "label": "นครศรีธรรมราช",
+        "value": "นครศรีธรรมราช",
+        "geography_id": 6,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 64,
+        "label": "กระบี่",
+        "value": "กระบี่",
+        "geography_id": 6,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 65,
+        "label": "พังงา",
+        "value": "พังงา",
+        "geography_id": 6,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 66,
+        "label": "ภูเก็ต",
+        "value": "ภูเก็ต",
+        "geography_id": 6,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 67,
+        "label": "สุราษฎร์ธานี",
+        "value": "สุราษฎร์ธานี",
+        "geography_id": 6,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 68,
+        "label": "ระนอง",
+        "value": "ระนอง",
+        "geography_id": 6,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 69,
+        "label": "ชุมพร",
+        "value": "ชุมพร",
+        "geography_id": 6,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 70,
+        "label": "สงขลา",
+        "value": "สงขลา",
+        "geography_id": 6,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 71,
+        "label": "สตูล",
+        "value": "สตูล",
+        "geography_id": 6,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 72,
+        "label": "ตรัง",
+        "value": "ตรัง",
+        "geography_id": 6,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 73,
+        "label": "พัทลุง",
+        "value": "พัทลุง",
+        "geography_id": 6,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 74,
+        "label": "ปัตตานี",
+        "value": "ปัตตานี",
+        "geography_id": 6,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 75,
+        "label": "ยะลา",
+        "value": "ยะลา",
+        "geography_id": 6,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 76,
+        "label": "นราธิวาส",
+        "value": "นราธิวาส",
+        "geography_id": 6,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    },
+    {
+        "id": 77,
+        "label": "บึงกาฬ",
+        "value": "บึงกาฬ",
+        "geography_id": 3,
+        "created_at": "2019-08-09T03:33:09.000+07:00",
+        "updated_at": "2022-05-16T06:31:03.000+07:00",
+        "deleted_at": null
+    }
+]

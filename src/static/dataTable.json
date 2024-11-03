@@ -1,0 +1,82 @@
+{
+    "dataTable": {
+      "columns": [
+        {
+          "title": "ทะเบียน",
+          "key": "numberId",
+          "width": "150px",
+          "align": "center"
+        },
+        {
+          "title": "รูป",
+          "key": "image",
+          "width": "150px",
+          "align": "center"
+        },
+        {
+          "title": "กลุ่มทะเบียน",
+          "key": "list",
+          "width": "150px",
+          "align": "center"
+        },
+        {
+          "title": "วันที่เพิ่ม",
+          "key": "addDate",
+          "width": "150px",
+          "align": "center"
+        },
+        {
+          "title": "วันทีแก้ไข",
+          "key": "fixDate",
+          "width": "150px",
+          "align": "center"
+        },
+        {
+          "title": "เจ้าของข้อมูล",
+          "key": "ownUser",
+          "width": "150px",
+          "align": "center"
+        },
+        {
+          "title": "หน่วยงาน",
+          "key": "agency",
+          "width": "150px",
+          "align": "center"
+        },
+        {
+          "title": "สถานะ",
+          "key": "status",
+          "width": "150px",
+          "align": "center"
+        },
+        {
+          "title": "",
+          "key": "action",
+          "width": "150px",
+          "align": "center"
+        }
+      ],
+      "row": [
+        {
+          "numberId": "8กก 788 กรุงเทพมหานคร",
+          "images": [
+            {
+              "url": "image.jpg",
+              "name": "image.jpg"
+            },
+            {
+              "url": "image.jpg",
+              "name": "image.jpg"
+            }
+          ],
+          "list": "Black List",
+          "addDate": "01/01/2021",
+          "fixDate": "01/01/2021",
+          "ownUser": "นายสุรพล พลวิวัฒน์",
+          "agency": "หน่วยงาน xxxx",
+          "status": "Active",
+          "action": ""
+        }
+      ]
+    }
+  }
