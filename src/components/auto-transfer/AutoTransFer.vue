@@ -63,7 +63,6 @@ export default {
   },
   methods: {
     moveToColumn(item) {
-
       this.items = this.items.filter((i) => i !== item);
 
       if (item.type === "Fruit") {
